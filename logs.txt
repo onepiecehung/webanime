@@ -1,0 +1,3 @@
+### 02:30:58 01-07-2017 ###
+Unable to connect to MySQL server. MySQL reported: Access denied for user ''@'localhost' (using password: NO)
+QUERY : 
